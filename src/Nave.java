@@ -1,9 +1,9 @@
 /**
- * @author André Carnero Fernández
- * @version 12.05.2026
- *
  * Representa una nave del juego Hundir la Flota.
  * Cada nave tiene un nombre, un tipo y una cantidad de vidas.
+ *
+ * @author André Carnero Fernández
+ * @version 12.05.2026
  */
 public class Nave {
 
